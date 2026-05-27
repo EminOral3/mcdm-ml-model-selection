@@ -1,4 +1,6 @@
-# 🏆 MCDM-ModelSelect: Framework for Hardware and Operationally Constrained ML Model Selection
+[🔗 Live Demo Link Here] : https://mcdm-ml-model-selection-7bmxutzymsbwcxx8chbrzx.streamlit.app/
+
+#  MCDM-ModelSelect: Framework for Hardware and Operationally Constrained ML Model Selection
 
 A production-ready engineering framework that applies **Multi-Criteria Decision-Making (MCDM)** to select the most optimal Machine Learning model under strict software engineering, deployment, and hardware constraints.
 
@@ -6,7 +8,7 @@ Instead of evaluating models blindly based on prediction metrics (like Accuracy)
 
 ---
 
-## 🧠 Architectural Workflow & Structural Limitations
+##  Architectural Workflow & Structural Limitations
 
 The framework operates in three sequential phases:
 1. **ML Pipeline (`01_train_models.py`):** Trains 5 distinct algorithms on a tabular classification dataset, capturing empirical performance metrics.
