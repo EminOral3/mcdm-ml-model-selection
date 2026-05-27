@@ -1,0 +1,6 @@
+Model,Accuracy,F1-Score,Train Time (s),Inference Time (s),Model Size (KB)
+Logistic Regression,0.9737,0.979,0.0172,0.0002,0.93
+Decision Tree,0.9474,0.9577,0.0127,0.0002,3.04
+Random Forest,0.9649,0.9722,0.1609,0.0037,309.75
+KNN,0.9474,0.9577,0.0007,1.6425,110.86
+XGBoost,0.9561,0.965,0.8008,0.002,88.2
